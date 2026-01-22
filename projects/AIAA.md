@@ -26,13 +26,13 @@ Throughout the semester, I delivered **multiple technical presentations** docume
 ### Team and Field Testing
 <img width="400px" class="img-fluid" src="../img/AIAA/AIAA_group_photo.jpg">
 
-*Figure 1: AIAA Fixed-Wing Drone Project team during a field testing session.*
+AIAA Fixed-Wing Drone Project team during a field testing session.*
 
 ---
 
 ### Autonomous Flight Path
 <img class="img-fluid" src="../img/AIAA/AIAA_ardupilot_path.png">
 
-*Figure 2: ArduPilot visualization of the fixed-wing aircraft’s autonomous flight and landing path.*
+*ArduPilot visualization of the fixed-wing aircraft’s autonomous flight and landing path.*
 
 
