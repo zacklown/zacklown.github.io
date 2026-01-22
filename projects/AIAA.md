@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/AIAA_plane.png
+image: img/AIAA/AIAA_plane.png
 title: "AIAA Fixed Wing Drone Junior Project"
 date: 2025
 published: true
