@@ -31,7 +31,7 @@ Throughout the semester, I delivered **multiple technical presentations** docume
 ---
 
 ### Autonomous Flight Path
-<img class="img-fluid" src=../img/AIAA/AIAA_aardupilot_path.png)>
+<img class="img-fluid" src=../img/AIAA/AIAA_ardupilot_path.png)>
 
 *Figure 2: ArduPilot visualization of the fixed-wing aircraft’s autonomous flight and landing path.*
 
