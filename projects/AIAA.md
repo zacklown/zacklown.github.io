@@ -24,16 +24,15 @@ Throughout the semester, I delivered **multiple technical presentations** docume
 ---
 
 ### Team and Field Testing
-![Group photo of the AIAA Fixed-Wing Drone Team](src=../img/AIAA/AIAA_group_photo.png)
+<img class="img-fluid" src=../img/AIAA/AIAA_group_photo.png)>
 
 *Figure 1: AIAA Fixed-Wing Drone Project team during a field testing session.*
 
 ---
 
 ### Autonomous Flight Path
-![Autonomous flight and landing path visualization from ArduPilot](src=../img/AIAA/AIAA_aardupilot_path.png)
+<img class="img-fluid" src=../img/AIAA/AIAA_aardupilot_path.png)>
 
 *Figure 2: ArduPilot visualization of the fixed-wing aircraft’s autonomous flight and landing path.*
 
 
-Source: <a href="https://github.com/jogarces/ics-313-text-game"><i class="large github icon "></i>jogarces/ics-313-text-game</a>
