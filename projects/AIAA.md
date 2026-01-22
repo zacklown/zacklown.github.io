@@ -12,7 +12,7 @@ labels:
 summary: "Lead software developer for the AIAA Fixed wing drong pilot x96 project"
 ---
 
-<img class="img-fluid" src="../img/AIAA/AIAA_plane.png">
+<img width="400px" class="img-fluid" src="../img/AIAA/AIAA_plane.png">
 ## AIAA Fixed-Wing Drone Project — Junior Project (x96)
 
 For my x96 Junior Project at the University of Hawaiʻi at Mānoa, I served as the **lead software developer** for the AIAA fixed-wing drone team. My primary responsibility was the development and integration of autonomous flight logic using ArduPilot, with a focus on reliability, repeatability, and safe operation during flight testing and deployment scenarios.
@@ -24,7 +24,7 @@ Throughout the semester, I delivered **multiple technical presentations** docume
 ---
 
 ### Team and Field Testing
-<img class="img-fluid" src="../img/AIAA/AIAA_group_photo.jpg">
+<img width="400px" class="img-fluid" src="../img/AIAA/AIAA_group_photo.jpg">
 
 *Figure 1: AIAA Fixed-Wing Drone Project team during a field testing session.*
 
