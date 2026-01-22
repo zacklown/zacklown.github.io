@@ -3,26 +3,30 @@ layout: project
 type: project
 image: img/vacay/vacay-square.png
 title: "Vacay"
-date: 2015
+date: 2026
 published: true
 labels:
-  - Javascript
-  - Meteor
-  - MongoDB
-  - GitHub
-summary: "A responsive web application for travel planning that my team developed in ICS 415."
+  - Linux
+  - Web Design
+  - Docker
+  - DNS
+  - Nginx
+  - Networking
+summary: "I'm working on a full-stack website as well and self-hosting a number of projects on a dedicated server"
 ---
 
-<img class="img-fluid" src="../img/vacay/vacay-home-page.png">
+## Personal Server and Home Lab — Systems and Infrastructure Project
 
-Vacay is a web application that I helped create as a team project in ICS 415, Spring 2015. The project helped me learn how to design and implement a responsive web site.
+I designed, built, and actively maintain a **self-hosted server environment** that supports a wide range of services, applications, and development workflows. This server functions as both a personal home lab and a production environment, allowing me to experiment with systems architecture while hosting real, externally accessible services. The project emphasizes reliability, security, and scalability, with the flexibility to add or reconfigure services as needed.
 
-Vacay is implemented using [Meteor](http://meteor.com), a JavaScript application platform. Within two weeks, we created a website that implements several types of reservations including flights, hotels, and car rentals.
+A major focus of this work has been **web hosting and networking infrastructure**. I configured domain management, subdomains, HTTPS, and reverse proxying to route traffic to multiple services running on the same machine. This included setting up and tuning web servers, managing SSL certificates, and handling port conflicts and network isolation. The server hosts my personal website along with additional sub-sites and tools, all managed through a unified routing and deployment strategy.
 
-In this project I gained experience with full-stack web application design and associated technologies, including [MongoDB](http://mongodb.com) for database storage, the [Twitter Bootstrap](http://getbootstrap.com/) CSS Framework for the user interface, and Javascript for both client and server-side programming. 
+I also implemented **containerization and service orchestration** to manage applications efficiently. Using Docker-based workflows, I deployed and maintained services such as ad-blocking DNS, game servers, administrative dashboards, and custom applications. This involved configuring custom networks, resolving container-to-host communication issues, and ensuring services could coexist without interference. Monitoring, logging, and iterative troubleshooting were essential parts of maintaining system stability.
 
-Here is some example code to illustrate Simple Schema use:
+In addition to hosting, the server serves as a **development and experimentation platform**. I routinely test new software stacks, deployment strategies, and configurations before moving them into active use. Through this project, I gained hands-on experience with Linux system administration, networking, security practices, and real-world debugging, while building an infrastructure that supports my academic, technical, and personal projects.
 
-{% gist 9defa1fb3f4eb593ba5fa9eacedca960 %}
- 
-Source: <a href="https://github.com/theVacay/vacay">theVacay/vacay</a>
+
+### Note
+
+*I'm in the process of moving and my server is currently packed away so photos will be coming soon!.*
+
