@@ -24,7 +24,7 @@ Throughout the semester, I delivered **multiple technical presentations** docume
 ---
 
 ### Team and Field Testing
-<img class="img-fluid" src=../img/AIAA/AIAA_group_photo.png>
+<img class="img-fluid" src=../img/AIAA/AIAA_group_photo.jpg>
 
 *Figure 1: AIAA Fixed-Wing Drone Project team during a field testing session.*
 
