@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/vacay/vacay-square.png
+image: img/home_server/pc.png
 title: "Vacay"
 date: 2026
 published: true
