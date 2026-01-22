@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/micromouse/micromouse-square.jpg
+image: img/door_opener/esp32.jpg
 title: "Door Opener"
 date: 2021
 published: true
@@ -24,16 +24,17 @@ To support the mechanical aspects of the system, I used **Autodesk Inventor** to
 ---
 
 ### System Overview
- <img width="200px" src="../img/door_opener/door_opener_esp32.png" >
+ <img width="200px" src="../img/door_opener/esp32.png" >
 
-* Installed door-opening device showing the ESP32-controlled actuator and mounting hardware.*
+*An ESP32 microcontroller*
+
 
 ---
 
 ### Mechanical Design
-  <img width="200px" src="../img/dooropener/door-opener_pic.jpg">
+  <img width="200px" src="../img/door_opener/IMG_7875.JPG">
 
-*An ESP32 microcontroller*
+* Installed door-opening device showing the ESP32-controlled actuator and mounting hardware.*
 
 
 Here is my code I used: https://github.com/zacklown/door-opener.
