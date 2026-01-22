@@ -23,18 +23,18 @@ To support the mechanical aspects of the system, I used **Autodesk Inventor** to
 
 ---
 
-### System Overview
- <img width="200px" src="../img/door_opener/esp32.png" >
+### Design
+ <img width="200px" src="../img/door_opener/esp32.jpg" >
 
 *An ESP32 microcontroller*
 
 
 ---
 
-### Mechanical Design
+### Hardware
   <img width="200px" src="../img/door_opener/IMG_7875.JPG">
 
-* Installed door-opening device showing the ESP32-controlled actuator and mounting hardware.*
+*Installed door-opening device showing the ESP32-controlled actuator and mounting hardware.*
 
 
 Here is my code I used: https://github.com/zacklown/door-opener.
