@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/home_server/pc.jpg
+image: img/home_server/pc.png
 title: "Home Server"
 date: 2026
 published: true
