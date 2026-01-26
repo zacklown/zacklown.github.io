@@ -1,54 +1,22 @@
 ---
 layout: essay
 type: essay
-title: "The difficult things will always be difficult"
+title: "First Impressions of TypeScript and Athletic Software Engineering"
 # All dates must be YYYY-MM-DD format!
-date: 2016-02-06
-published: false
+date: 2026-01-25
+published: true
 labels:
-  - Engineering
+  - Typescript
+  - Learning
 ---
 
-<img width="200px" class="rounded float-start pe-4" src="../img/difficulty/degree_difficulty.jpg">
 
-*Difficulty: a thing that is hard to accomplish, deal with, or understand.*
+*First Impressions of TypeScript and Athletic Software Engineering*
 
-One of my friends asked the question earlier last week -- why is it so hard to be an officer for the student branch? Why is so hard compared to working at my on-campus job? This question came after he struggled a little with bookkeeping for the student organization.
+Coming into this module, I had no prior experience with TypeScript, but I did have a background in Python, C++, and Java. One of the most immediately appealing aspects of TypeScript was its type system, which felt familiar due to my experience with C++. Compared to Python’s dynamic typing, TypeScript’s static type checking provides an added layer of reliability by catching certain classes of errors at compile time rather than at runtime. From a software engineering perspective, this emphasis on correctness aligns well with my preference for building systems that behave predictably and fail safely.
 
-Now I gave him the standard answer - being an officer of an organization requires that you manage your time between school and work. There isn't anyone telling you what to do. It's the answer any good mentor would give, and is mostly true.
+That said, while TypeScript improves reliability relative to JavaScript, I see clear limitations when comparing it to more robust languages such as C++, especially on the backend. TypeScript’s type system exists only at compile time and is erased at runtime, meaning it cannot fully enforce correctness once the code is executing. In a language like C++, stricter control over memory and execution flow makes it easier to reason about system behavior in safety-critical or performance-sensitive contexts which is something I have an interest in. For this reason, I see TypeScript as a very effective tool for frontend development and large-scale application structure, but less suitable for backend systems where reliability, performance, and low-level control are primary concerns.
 
-But the more I though about it, the more I wondered to myself...damn that's a really great question; it's one that deserves some more thought. Most people I think stop at the answer I gave previously - he obviously isn't managing his time properly.
+The athletic software engineering model used in this course, particularly the practice WODs, reinforced many of these ideas through repetition and time pressure. I found the WODs useful but also stressful, largely because my preferred approach to engineering involves taking time to research multiple solutions and understand why one approach is better than another. The fast-paced format encouraged quick implementation rather than deep exploration, which can feel at odds with my inclination toward careful design. However, I recognize that this style mirrors real-world scenarios where engineers must make decisions under constraints, and I found it valuable as a way to build fluency and confidence with new tools.
 
-Here's what I think: the difficult things will always be difficult.
-
-## In the context of programming
-
-In the context of programming, this has always been true. The difficult problems have always been different, although changes in technology can change the landscape quite a bit. "Business" type applications are the things that come to mind for me. Those types of applications are usually coupled in some way with people ... and people are awfully hard to deal with!
-
-Consider that one of the most popular content management systems is also considered the most horrible - Wordpress. But really, is there anything that fills that need? If it was so easy in the first place, where is the solution? Where's the magic CMS that is designed well enough that everyone hops on the boat to use it?
-
-Some things are just difficult - building applications that humans use is hard, and will probably be hard for at least the near future.
-
-## In the context of engineering
-
-Ever hear people ragging on engineering companies for delivering late and way over budget? Well, some engineering jobs are really difficult, especially if the requirements and funding are undulating underneath you. Because of the nature of the problem, sometimes engineering firms require large amounts of engineers and workers, inviting further problems and delays.
-
-The Honolulu Rail project at home has become this sort of poster child of failure, budget overrun and overall incompetence in Hawaii. Well, working though regulatory boards and fiscal procedures in Hawaii seems like it's a mind bogglingly difficult job to do. Granted, there might be some fishy stuff going on, but I refuse to believe that everyone is involved for nefarious reasons.
-
-The problem of creating an unprecedented public transportation backbone on an island is difficult! I'm not sure we would have done it right, even if the best people were involved.
-
-## In the context of relationships
-
-So in the end, we realize that all engineering and programming is there for a reason - to serve human needs. Maybe that's why those things are difficult, because they both involve humans and are for humans.
-
-Relationships, regardless if they're romantic or not take work. Humans are fickle creatures and relationships can come and go with the wind. To properly maintain something over time requires work. Family takes work. Marriage takes work. We live to figure out what works and what doesn't and hope that as we move forward we're improving.
-
-Relationships have always been difficult, and by nature will continue to be so.
-
-## Okay!
-
-So back to the original premise; why is being one of the club officers so difficult?
-
-And the final answer - it's supposed to be difficult, and it's supposed to challenge you, just like everything else that humans do that is difficult: programming, engineering, engaging in relationships, pondering the universe, etc.
-
-Ultimately the question you should really ask yourself if something if particularly difficult is then "is it worth it"? That is something that is context specific and only you can answer yourself.
+Overall, while the pace of the course required some adjustment, I found both TypeScript and the athletic learning model to be effective in their intended contexts. TypeScript offers meaningful improvements in reliability over JavaScript and integrates well into modern frontend workflows, even if it does not fully satisfy my preferences for backend or safety-critical systems. Similarly, the WOD-based learning style, though demanding, provided a practical complement to more deliberate project-based work, and helped me adapt to faster engineering cycles without losing sight of the importance of correctness and thoughtful design.
