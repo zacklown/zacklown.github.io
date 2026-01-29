@@ -10,7 +10,7 @@ labels:
   - Learning
 ---
 
-
+<img width="300px" class="rounded float-start pe-4" src="../img/first-impressions-of-typescript/typeScript.png">
 *First Impressions of TypeScript and Athletic Software Engineering*
 
 Coming into this module, I had no prior experience with TypeScript, but I did have a background in Python, C++, and Java. One of the most immediately appealing aspects of TypeScript was its type system, which felt familiar due to my experience with C++. Compared to Python’s dynamic typing, TypeScript’s static type checking provides an added layer of reliability by catching certain classes of errors at compile time rather than at runtime. From a software engineering perspective, this emphasis on correctness aligns well with my preference for building systems that behave predictably and fail safely.
