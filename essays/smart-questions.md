@@ -10,7 +10,7 @@ labels:
   - StackOverflow
 ---
 
-<img width="300px" class="rounded float-start pe-4" src="../img/smart-questions/rtfm.png">
+<img width="300px" class="rounded float-start pe-4" src="../img/smart-questions/smartQuestions.png">
 
 Communication is a core skill in software engineering, and the ability to ask effective technical questions is a critical part of that skill set. Eric S. Raymond’s essay *“How To Ask Questions The Smart Way”* emphasizes that well-formed questions are not just polite, but essential for receiving useful, accurate, and timely help. In collaborative environments like Stack Overflow, the quality of a question strongly influences the quality of the responses it receives. This exercise highlights why asking smart questions matters by comparing a well-asked question with a poorly asked one and examining how the community responds to each.
 
