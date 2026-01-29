@@ -9,6 +9,7 @@ labels:
   - Software Engineering
   - Learning
 ---
+<img width="300px" class="rounded float-start pe-4" src="../img/the-future-and-me/myInterests.jpg">
 
 ## Building Reliable Systems That Interact With the Real World
 
