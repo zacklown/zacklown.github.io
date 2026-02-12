@@ -10,7 +10,7 @@ labels:
   - Learning
 ---
 
-<img width="300px" class="rounded float-start pe-4" src="../img/reflect-on-coding-standards/reflection.jpg">
+<img width="300px" class="rounded float-start pe-4" src="{{ site.baseurl }}/img/reflect-on-coding-standards/lake-reflection.jpg">
 *Reflect on Coding Standards*
 
 Coding standards are often dismissed as superficial formatting rules, but I see them as one of the most effective tools for improving software quality. Strong standards create consistency, reduce ambiguity, and make large codebases easier to read and maintain. I especially appreciate languages with strict rules and structure, such as C++, where strong typing and explicit design choices force developers to think carefully about data and program behavior. These constraints act as guardrails that encourage disciplined thinking and make bugs easier to detect early.
